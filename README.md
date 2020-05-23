@@ -1,4 +1,11 @@
 # ZW-3-Cherry-Blossoms-Data
-Backup Data for my Chinese learning app
+Backup Data for my Chinese learning app, Zhong Wen 3.0.
 
-![Image of Yaktocat](https://raw.githubusercontent.com/Pi-31415/ZW-3-Cherry-Blossoms-Data/master/preview.png)
+Available for free for everyone at http://zw.paingthet.com - automatic!
+[Zhong Wen](http://zw.paingthet.com)
+
+The backup contains the SQL file of 1290 chinese character flashcard files, along with the sentence structures and image database.
+
+![Image of Preview](https://raw.githubusercontent.com/Pi-31415/ZW-3-Cherry-Blossoms-Data/master/preview.png)
+
+
